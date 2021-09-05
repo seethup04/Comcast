@@ -1,0 +1,1 @@
+curl --location --request POST 'http://localhost:8077/lcs' --header 'Content-Type: application/json' --data-raw '{"setOfStrings":[{"value": "comcast"},{"value": "comcas"},{"value": "broadcaster"}]}'
